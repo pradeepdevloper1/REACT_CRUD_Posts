@@ -1,0 +1,7 @@
+echo "# REACT_CRUD_Posts" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M master
+git remote add origin1027 https://github.com/pradeepdevloper1/REACT_CRUD_Posts.git
+git push -u origin1027 master
